@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 日常记录</title>
+    <link>https://ozone.github.io/posts/</link>
+    <description>Recent content in Posts on 日常记录</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Sat, 11 Jan 2025 16:47:43 +0800</lastBuildDate>
+    <atom:link href="https://ozone.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal</title>
+      <link>https://ozone.github.io/2025/01/personal/</link>
+      <pubDate>Sat, 11 Jan 2025 16:47:43 +0800</pubDate>
+      <guid>https://ozone.github.io/2025/01/personal/</guid>
+      <description>&lt;h2 id=&#34;ai-is-mostly-an-experimental-science&#34;&gt;AI is (mostly) an experimental science&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Work like a biologist, rather than a mathematician.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Write short scripts instead of long programs&lt;/li&gt;&#xA;&lt;li&gt;Visualize everything&lt;/li&gt;&#xA;&lt;li&gt;Know that discoveries usually happen while you are doing something else&lt;/li&gt;&#xA;&lt;li&gt;Make yourself &lt;strong&gt;be lucky!&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;The Magazine Photos experiment&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;[Hubel and Weasel, 1964]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;科研上的一些思考&#34;&gt;科研上的一些思考&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;一个工作大概率不会超过半年，超过半年那都是算久了，可以参考丁霄汉的工作&lt;/li&gt;&#xA;&lt;li&gt;做“自成一派”的研究，还要思考这个工作是否是在给别人做嫁衣？&lt;/li&gt;&#xA;&lt;li&gt;多思考总结，不要总盯着实验结果（这里是指每次在跑程序的界面上显示的结果）, 实验跑起来后，可以离开电脑去思考这对不对，这样会更直接一些，同时一定要记得可视化一切&lt;/li&gt;&#xA;&lt;li&gt;论文在写作或者idea初期多问问so what？以及我为什么要相信你？，这样可以避免一定的错误思考&lt;/li&gt;&#xA;&lt;li&gt;事情每天都是做不完的，一定一定要给自己固定一个时间看论文，可以是半个小时这样&lt;/li&gt;&#xA;&lt;li&gt;关于论文的idea，丁霄汉的那篇RepVGG一开始是从一个具体的工程项目出发，然后不断去优化，最后做出了他的RepVGG，是否我们的idea也可以从一个更高的维度去思考&lt;/li&gt;&#xA;&lt;li&gt;关于调参方面，我好像还不是很熟悉，而谷歌的那本调参手册应该好好学习，可以规定每天花多少时间去实验，现在有机器了，反而不爱动了，这也是我一直以来的困惑&lt;/li&gt;&#xA;&lt;li&gt;代码框架那个就用现有的，我记得基本需求已经达到而不需要一些其他的框架或者trainer，把时间花在真正有意义的事情上&lt;/li&gt;&#xA;&lt;li&gt;每天最后能够花点时间总结下一天的工作&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
